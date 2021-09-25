@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Mr. Tanveer Ahsan  ",
+        "profession": "Teaching",
+        "registrationId": 1,
+        "salary": 90000,
+        "img": "https://thumbs.dreamstime.com/b/portrait-young-male-teacher-background-school-blackboard-teacher-s-day-knowledge-day-back-to-school-study-159722312.jpg",
+        "schoolName": "Cantonment English School & College"
+    },
+    {
+        "name": "Prof. Dr. Md. Monirul Islam",
+        "profession": "Teacher",
+        "registrationId": 2,
+        "salary": 80000,
+        "img": "https://cache.careers360.mobi/media/article_images/2020/5/12/teacher-istock_650x400_61500877586.jpg",
+        "schoolName": "Nasirabad Boys School"
+    },
+    {
+        "name": "Prof. Mohammed Shamsul Alam",
+        "profession": "Teacher",
+        "registrationId": 3,
+        "salary": 95000,
+        "img": "https://c8.alamy.com/comp/E3Y8FP/teacher-writing-on-whiteboard-E3Y8FP.jpg",
+        "schoolName": "Chittagong govt. high school"
+    },
+    {
+        "name": "Zinnia Sultana Mukti",
+        "profession": "Assistant Director",
+        "registrationId": 4,
+        "salary": 40000,
+        "img": "https://image.shutterstock.com/image-photo/teacher-making-thumb-sign-isolated-260nw-536045050.jpg",
+        "schoolName": "Bangladesh Navy School and College, Chittagong"
+    },
+    {
+        "name": "Dr. Abu Naser Md. Rezaul Karim",
+        "profession": "Teacher",
+        "registrationId": 5,
+        "salary": 105000,
+        "img": "https://image.shutterstock.com/image-photo/teacher-book-wooden-stick-isolated-600w-714961912.jpg",
+        "schoolName": "Comilla High School"
+    },
+    {
+        "name": "Md. Jamal Uddin",
+        "profession": "Senior Assistant Director",
+        "registrationId": 6,
+        "salary": 20000,
+        "img": "https://image.shutterstock.com/image-photo/young-male-teacher-pointer-on-600w-562151302.jpg",
+        "schoolName": "Ispahani Public School & College\t"
+    },
+    {
+        "name": "Muhammed Nazmul Arefin",
+        "profession": "Teacher",
+        "registrationId": 7,
+        "salary": 50000,
+        "img": "https://media.gettyimages.com/photos/happy-young-man-smiling-at-camera-picture-id1201229397?s=612x612",
+        "schoolName": "Chittagong Government Girls High School"
+    },
+    {
+        "name": "x",
+        "profession": "y",
+        "registrationId": 8,
+        "salary": 30000,
+        "img": "https://i.ndtvimg.com/i/2017-10/teacher_650x400_51507205290.jpg",
+        "schoolName": "Chittagong Grammar School"
+    },
+    {
+        "name": "Sanjida Sharmin",
+        "profession": "Teacher",
+        "registrationId": 9,
+        "salary": 60000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4H7MMB1n2QhlYTXnvn41ellqGe8Ne0_fvA&usqp=CAU",
+        "schoolName": "Chittagong Model School and College"
+    },
+    {
+        "name": "Adil Mahmud Roman",
+        "profession": "Office Director",
+        "registrationId": 10,
+        "salary": 30000,
+        "img": "https://sites.google.com/site/learningtogetherdidactics/_/rsrc/1400207146650/5-1/imagenes-con-movimiento-de-maestros-3.gif",
+        "schoolName": "Chittagong Government Girls High School"
+    },
+    {
+        "name": "Md. Khaliluzzaman",
+        "profession": "Lecturer",
+        "registrationId": 11,
+        "salary": 40000,
+        "img": "https://media.self.com/photos/5aa9743e19b7c01d73149d50/2:1/w_1280,c_limit/how-teachers-dont-get-sick.jpg",
+        "schoolName": "Chittagong Police Institution"
+    }
+]
