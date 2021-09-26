@@ -6,10 +6,10 @@ const Calculation = (props) => {
     const total = calculation.reduce(handleSum, 0);
     return (
         <div className="cal-container">
-            <h2>Total:{props.calculation.length}</h2>
+            <h2>Members added:{props.calculation.length}</h2>
             <h4>Salary total: {total}</h4>
             {
-                calculation.map(cal => <li>{cal.name}</li>)
+                calculation.map(cal => <li key={cal.registrationId}>{cal.name}</li>)
             }
         </div>
     );

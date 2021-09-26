@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Welcome to new chittagong school committee
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project name is [Chittagong School Committee](https://github.com/ProgrammingHeroWC4/the-superhero-direction-3minhaz).
 
 ## Available Scripts
 

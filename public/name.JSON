@@ -3,6 +3,7 @@
         "name": "Mr. Tanveer Ahsan  ",
         "profession": "Teaching",
         "registrationId": 1,
+        "age": 50,
         "salary": 90000,
         "img": "https://thumbs.dreamstime.com/b/portrait-young-male-teacher-background-school-blackboard-teacher-s-day-knowledge-day-back-to-school-study-159722312.jpg",
         "schoolName": "Cantonment English School & College"
@@ -10,6 +11,7 @@
     {
         "name": "Subrina Akter",
         "profession": "Teacher",
+        "age": 40,
         "registrationId": 2,
         "salary": 80000,
         "img": "https://cache.careers360.mobi/media/article_images/2020/5/12/teacher-istock_650x400_61500877586.jpg",
@@ -18,6 +20,7 @@
     {
         "name": "Zinnia Sultana Mukti",
         "profession": "Teacher",
+        "age": 35,
         "registrationId": 3,
         "salary": 95000,
         "img": "https://c8.alamy.com/comp/E3Y8FP/teacher-writing-on-whiteboard-E3Y8FP.jpg",
@@ -26,6 +29,7 @@
     {
         "name": "Prof. Mohammed Shamsul Alam",
         "profession": "Assistant Director",
+        "age": 44,
         "registrationId": 4,
         "salary": 40000,
         "img": "https://image.shutterstock.com/image-photo/teacher-making-thumb-sign-isolated-260nw-536045050.jpg",
@@ -34,6 +38,7 @@
     {
         "name": "Dr. Abu Naser Md. Rezaul Karim",
         "profession": "Teacher",
+        "age": 53,
         "registrationId": 5,
         "salary": 105000,
         "img": "https://image.shutterstock.com/image-photo/teacher-book-wooden-stick-isolated-600w-714961912.jpg",
@@ -42,6 +47,7 @@
     {
         "name": "Md. Jamal Uddin",
         "profession": "Senior Assistant Director",
+        "age": 40,
         "registrationId": 6,
         "salary": 20000,
         "img": "https://image.shutterstock.com/image-photo/young-male-teacher-pointer-on-600w-562151302.jpg",
@@ -50,6 +56,7 @@
     {
         "name": "Muhammed Nazmul Arefin",
         "profession": "Teacher",
+        "age": 32,
         "registrationId": 7,
         "salary": 50000,
         "img": "https://media.gettyimages.com/photos/happy-young-man-smiling-at-camera-picture-id1201229397?s=612x612",
@@ -58,6 +65,7 @@
     {
         "name": "Rahima Afrose",
         "profession": "Assistant Professor",
+        "age": 40,
         "registrationId": 8,
         "salary": 30000,
         "img": "https://i.ndtvimg.com/i/2017-10/teacher_650x400_51507205290.jpg",
@@ -66,6 +74,7 @@
     {
         "name": "Sanjida Sharmin",
         "profession": "Teacher",
+        "age": 48,
         "registrationId": 9,
         "salary": 60000,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4H7MMB1n2QhlYTXnvn41ellqGe8Ne0_fvA&usqp=CAU",
@@ -74,6 +83,7 @@
     {
         "name": "Adil Mahmud Roman",
         "profession": "Office Director",
+        "age": 60,
         "registrationId": 10,
         "salary": 30000,
         "img": "https://sites.google.com/site/learningtogetherdidactics/_/rsrc/1400207146650/5-1/imagenes-con-movimiento-de-maestros-3.gif",
@@ -82,6 +92,7 @@
     {
         "name": "Israt Binteh Habib",
         "profession": "Lecturer",
+        "age": 47,
         "registrationId": 11,
         "salary": 40000,
         "img": "https://media.self.com/photos/5aa9743e19b7c01d73149d50/2:1/w_1280,c_limit/how-teachers-dont-get-sick.jpg",
