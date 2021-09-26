@@ -1,6 +1,6 @@
 # Welcome to new chittagong school committee
 
-This project name is [Chittagong School Committee](https://github.com/ProgrammingHeroWC4/the-superhero-direction-3minhaz).
+My project name is [Chittagong School Committee](https://github.com/ProgrammingHeroWC4/the-superhero-direction-3minhaz).
 
 ## Project description
 - show total budget in header
