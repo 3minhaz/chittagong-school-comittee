@@ -18,6 +18,7 @@ const Member = () => {
     }
 
     return (
+        // parents section of each member
         <div className="member-container">
             <div className="member-details" >
                 {
@@ -29,6 +30,7 @@ const Member = () => {
                 }
             </div>
             <div>
+                {/* cart and calculation section*/}
                 <Calculation calculation={calculation}></Calculation>
             </div>
         </div>

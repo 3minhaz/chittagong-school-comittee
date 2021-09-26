@@ -2,6 +2,7 @@ import React from 'react';
 import './Calculation.css'
 const Calculation = (props) => {
     const { calculation } = props;
+    //calculate salary here by using reduce
     const handleSum = (previous, current) => previous + current.salary;
     const total = calculation.reduce(handleSum, 0);
     return (
