@@ -1,0 +1,35 @@
+    .person-container{
+        /* display: grid;
+        grid-template-columns: repeat(3,1fr); */
+        background-color: lightgoldenrodyellow;
+        margin-left: 30px;
+        margin-top: 20px;
+        border-radius: 10px;
+        margin-right: 10px;
+        padding: 10px;
+        border: 1px solid gray;
+    }
+    .person-container:hover{
+        border:2px solid cyan;
+    }
+    .person-details img{
+        text-align: center;
+        width: 275px;
+        height: 200px;
+    }
+    .person-details button{
+        background-color: #0a58ca;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 10px;
+        border:1px solid gray;
+        cursor: pointer;
+    }
+    .fontawesome{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .fontawesome i{
+        margin-right: 20px;
+    }
+    

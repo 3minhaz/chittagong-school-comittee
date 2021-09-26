@@ -1,0 +1,12 @@
+.member-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.member-details{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 30px;
+    grid-column-gap: 15px;
+    margin-right: 10px;
+    border-right: 1px solid black;
+}

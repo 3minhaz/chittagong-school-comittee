@@ -8,7 +8,7 @@
         "schoolName": "Cantonment English School & College"
     },
     {
-        "name": "Prof. Dr. Md. Monirul Islam",
+        "name": "Subrina Akter",
         "profession": "Teacher",
         "registrationId": 2,
         "salary": 80000,
@@ -16,7 +16,7 @@
         "schoolName": "Nasirabad Boys School"
     },
     {
-        "name": "Prof. Mohammed Shamsul Alam",
+        "name": "Zinnia Sultana Mukti",
         "profession": "Teacher",
         "registrationId": 3,
         "salary": 95000,
@@ -24,7 +24,7 @@
         "schoolName": "Chittagong govt. high school"
     },
     {
-        "name": "Zinnia Sultana Mukti",
+        "name": "Prof. Mohammed Shamsul Alam",
         "profession": "Assistant Director",
         "registrationId": 4,
         "salary": 40000,
@@ -56,8 +56,8 @@
         "schoolName": "Chittagong Government Girls High School"
     },
     {
-        "name": "x",
-        "profession": "y",
+        "name": "Rahima Afrose",
+        "profession": "Assistant Professor",
         "registrationId": 8,
         "salary": 30000,
         "img": "https://i.ndtvimg.com/i/2017-10/teacher_650x400_51507205290.jpg",
@@ -80,7 +80,7 @@
         "schoolName": "Chittagong Government Girls High School"
     },
     {
-        "name": "Md. Khaliluzzaman",
+        "name": "Israt Binteh Habib",
         "profession": "Lecturer",
         "registrationId": 11,
         "salary": 40000,
