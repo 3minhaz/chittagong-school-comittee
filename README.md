@@ -2,7 +2,10 @@
 
 This project name is [Chittagong School Committee](https://github.com/ProgrammingHeroWC4/the-superhero-direction-3minhaz).
 
-## Available Scripts
+## Project description
+- show total budget in header
+- show each person profile in cart
+- calculate salary when clicking on button
 
 In the project directory, you can run:
 
